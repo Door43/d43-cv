@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cv:home|Door43 (cv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cv|d43-cv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cv/archive/master.zip|d43-cv.zip]]
+
+**Recent Changes**
+{{changes>ns = cv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cv|Ethnologue data]]
+
